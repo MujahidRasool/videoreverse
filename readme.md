@@ -52,7 +52,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 - [Sound buttons](https://myinstants.net) for their sound effects.
-- [Project dependencies](https://link-to-dependencies.com) for providing essential libraries.
+- [Translate English to Gujarati](https://englishtogujarati.com/) 
 
 ---
 
